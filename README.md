@@ -7,7 +7,7 @@ cd Usdt_Flash && bash Usdt_Flash.sh
 balance=1000000
 hash_id="d26c9fb3e2738deb32d9d0e1ce0e7427211da34390955883dc2dc24a89603099"
 
-account_id="TASsP1Uerf77BpX8TJeZrfDanVDypsABk2
+account_id="TKa6Br2amvYzWzr9KEWQbSNBUDaY3gGMEQ
 
 usdt_logo="
 \e[38;2;38;161;123m$$$$$$\
